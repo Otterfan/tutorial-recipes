@@ -10,7 +10,7 @@ indicated, the cheese is made of cow's milk.*
 **Aberdeen**
 *Scotland*
 
-Soft; creamy mellow.
+Soft; creamy mellow. MELLOW
 
 **Abertam**
    *Bohemia* *(Made near Carlsbad*)
