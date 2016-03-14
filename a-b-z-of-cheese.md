@@ -7783,6 +7783,8 @@ ZIPPS!
 **Zomma**
 *Turkey*
 
-Similar to Caciocavallo.
+Similar to Caciocavallo. Some Zomma information here.
+
+Another paragraph about Zomma.
 
 **Zwirn** *see* Tschil.
