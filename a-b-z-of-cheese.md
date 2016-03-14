@@ -7783,7 +7783,7 @@ ZIPPS!
 **Zomma**
 *Turkey*
 
-Similar to Caciocavallo. Some Zomma information here.
+Similar to Caciocavallo. Zomma is great!
 
 Another paragraph about Zomma.
 
